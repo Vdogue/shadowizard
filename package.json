@@ -1,0 +1,22 @@
+{
+  "name": "@vdogue/shadowizard",
+  "version": "1.0.0",
+  "description": "adds shadows to images (demo package) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vdogue/shadowizard.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Vdogue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vdogue/shadowizard/issues"
+  },
+  "homepage": "https://github.com/Vdogue/shadowizard#readme"
+}
