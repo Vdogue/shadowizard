@@ -1,6 +1,6 @@
 {
   "name": "@vdogue/shadowizard",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "adds shadows to images (demo package) ",
   "main": "index.js",
   "scripts": {
